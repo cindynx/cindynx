@@ -4,9 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-🌱 ***Front-end Developer*** in career transition <br>
+💻 ***Front-end Developer*** in career transition <br>
 🎓I have a Technology degree in ***Systems Analysis and Development*** <br>
-📍I can speak ***Portuguese fluently*** and ***intermediate English***
+🌎Fluent in Portuguese and intermediate English
+📍Campinas, São Paulo - Brazil
 
 <br>
 
