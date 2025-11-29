@@ -7,7 +7,6 @@
 💻 ***Front-end Developer*** in career transition <br>
 🎓I have a Technology degree in ***Systems Analysis and Development*** <br>
 🌎Fluent in Portuguese and intermediate English <br>
-📍Campinas, São Paulo - Brazil
 
 <br>
 
