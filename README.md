@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 💻 ***Front-end Developer*** in career transition <br>
-🎓I have a Technology degree in ***Systems Analysis and Development*** <br>
+🎓Technology degree in ***Systems Analysis and Development*** <br>
 🌎Fluent in Portuguese and intermediate English <br>
 
 <br>
